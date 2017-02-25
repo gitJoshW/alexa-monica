@@ -19,4 +19,5 @@ var handlers = {
     },
     'SimmerMonica': function () {
         this.emit(':tell', 'Monica, please simmer down');
+    }
 };
