@@ -15,7 +15,7 @@ var handlers = {
         this.emit('SimmerMonica')
     },
     'SayHello': function () {
-        this.emit(':tell', 'Hello World!');
+        this.emit(':tell', 'Hello World!')
     },
     'SimmerMonica': function () {
         this.emit(':tell', 'Monica, please simmer down');
