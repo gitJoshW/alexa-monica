@@ -1,0 +1,27 @@
+{
+  "name": "skill-tell-monica",
+  "version": "1.0.0",
+  "description": "Give commands to Monica via Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitJoshW/alexa-monica"
+  },
+  "keywords": [
+    "monica",
+    "alexa",
+    "skill"
+  ],
+  "author": "Josh Waldman",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/gitJoshW/alexa-monica#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  }
+}
